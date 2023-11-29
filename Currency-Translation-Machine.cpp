@@ -1,13 +1,3 @@
-/*==========================================================
-
- Title:     Assignment 10 (Final) - C++ Currency Translation Machine
- Course:  	CIS 2252
- Author:  	<mohammed tanvvir>
- Date:    	< 8/10 /23 >
- Description: This program ....
-
- ==========================================================
-*/
 #include <iostream>
 #include <fstream>
 #include <iomanip>
